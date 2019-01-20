@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+
+    "pages/detail/detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#EF6262",
+    "navigationBarTitleText": "快递800",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":true
+  }
+  
+}
